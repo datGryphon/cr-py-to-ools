@@ -1,0 +1,22 @@
+# Crypto Tools and Examples in Python
+### Caleb Wastler
+## Program 1
+
+Demonstrates the attack on AES-CBC which allows an adversary to 
+decrypt the message by querying a black-box padding oracle.
+
+## Program 2
+
+Demonstrates how to generate primes and test their primality 
+with the Miller-Rabin test as well as how to use the primes
+for RSA trapdoor encryption. Thirdly, the program shows how
+to use a basic merkle tree implementation to verify the 
+integrity of a filesystem. 
+
+## Program 3
+
+Program 3 shows how to use the RSA trapdoor function for 
+signatures and how to solve the proof of work problem used
+in bitcoin. Program 3 also provides a sample of a centralized
+blockchain structure and shows how it prevents attacks like
+double spending. 
